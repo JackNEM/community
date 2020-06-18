@@ -1,4 +1,4 @@
-# Clients Protocol Compatibility
+# Clients Status
 
 ## Table of contents
 
@@ -14,7 +14,7 @@
 
 ## Abstract
 
-This document aims to group technical features of Milestones in the Catapult Protocol Development project and assess/update status reports about specific **Clients** compatibility.
+This document aims to group technical features of Milestones in the Symbol Protocol Development project and assess/update status reports about specific **Clients** compatibility.
 
 The document should provide with an easy aggregation of all features addressed in the protocol project during milestones development and should provide a clear compatibility table for individual protocol features / or changes.
 
@@ -26,14 +26,14 @@ Following client applications are taken into account for this compatibility stat
 | :-: | :-: | :-: |
 | **Wallets** | | |
 | Desktop Wallet | symbol-desktop-wallet | [symbol-wallet][wallet-desktop] |
-| Mobile Wallet (RFP) | nem2-wallet-mobile | [nem-catapult-wallet][wallet-rfp] |
-| Hardware Wallets Integrations | nem2-wallet-hardware | N/A |
+| Mobile Wallet (RFP) | symbol-wallet-mobile | [nem-catapult-wallet][wallet-rfp] |
+| Hardware Wallets Integrations | symbol-wallet-hardware | N/A |
 | **Explorers** | | |
 | Node/Block Explorer | symbol-explorer | [symbol-explorer][explorer] |
 | **Faucet** | | |
 | Symbol Faucet | symbol-faucet | [symbol-faucet][faucet] |
 | **Command Line** | | |
-| Symbol CLI | nem2-cli | [symbol-cli][cli] |
+| CLI | symbol-cli | [symbol-cli][cli] |
 
 ## Features Compatibilities
 
@@ -52,6 +52,7 @@ Following table describes the status attributions for each of the icons that wil
 Wallet packages are being worked on mostly by foundation teams. Following packages are target of the Stories table:
 
 - [symbol-desktop-wallet][wallet-desktop]: **Wallet Desktop Build**, installable on major OSs.
+- [nem-catapult-wallet][wallet-rfp] (RFP): **Outsourced** to Hatio.
 - [symbol-cli][cli]
 
 #### Stories
@@ -215,7 +216,7 @@ The Faucet project was released by a community member and other members of the p
 | Sep 12 2019   | Second Update   |
 
 [wallet-desktop]: https://github.com/nemfoundation/symbol-desktop-wallet
-[wallet-mobile]: #
+[wallet-rfp]: https://github.com/hatioin/nem-catapult-wallet.git
 [wallet-hardware]: #
 [explorer]: https://github.com/nemfoundation/symbol-explorer
 [explorer-mijin]: https://github.com/nemtech/dev-block-explorer
