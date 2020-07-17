@@ -4,6 +4,12 @@ Decisions and consultations proposed and voted by the PMC.
 
 | Proposal | Status | Proposed by | Decision Date | Comment |
 |-----------------------------------------------------|-------------|---------------|---------------|-----|
+| Add @fboucquez to the PMC                           | APPROVED    | @dgarcia360   | 17 Jul 2020   |     |
+| Rename master branch name to main (all projects)    | APPROVED    | @gimre        | 01 Jul 2020   |     | 
+| Rename catapult-server to symbol-server             | 6/12        | @dgarcia360   | 01 Jul 2020   |     | 
+| Rename nemtech to symbol                            | DECLINED    | @dgarcia360   | 01 Jul 2020   |     | 
+| Create a separate commercial org for the nemgroup   | APPROVED    | @dgarcia360   | 01 Jul 2020   |     | 
+| Keep the open-source repositories under @nemtech    | APPROVED    | @dgarcia360   | 01 Jul 2020   |     | 
 | Add @Vektrat to the PMC                             | APPROVED    | @Jaguar0625   | 20 March 2020 |     | 
 | Move nemtech org on GitHub to symbolplatform        | CONSULTATION| @dgarcia360   | 20 Feb 2020   | - keep it as nemtech (5 votes) <br> - move org to symbolplatform account (3 votes) |
 | Opinion on finalization                             | CONSULTATION| @Jaguar0625  | 14 Feb 2020    | -  not required for public launch but should be added immediately after (6 votes) <br> - required for public launch (4 votes) <br> - not required for public launch but should be added "eventually" (3 votes) |
