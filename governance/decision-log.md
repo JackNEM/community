@@ -4,6 +4,9 @@ Decisions and consultations proposed and voted by the PMC.
 
 | Proposal | Status | Proposed by | Decision Date | Comment |
 |-----------------------------------------------------|-------------|---------------|---------------|-----|
+| Approve NIP#6 (HD)                                  | APPROVED    | @evias        | 23 Jul 2020   |     |
+| Approve NIP#7 (QR)                                  | APPROVED    | @evias        | 23 Jul 2020   |     |
+| Approve NIP#2 (URI)                                 | APPROVED    | @dgarcia360   | 23 Jul 2020   |     |
 | Add @fboucquez to the PMC                           | APPROVED    | @dgarcia360   | 17 Jul 2020   |     |
 | Rename master branch name to main (all projects)    | APPROVED    | @gimre        | 01 Jul 2020   |     | 
 | Rename catapult-server to symbol-server             | 6/12        | @dgarcia360   | 01 Jul 2020   |     | 
