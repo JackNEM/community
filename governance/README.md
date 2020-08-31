@@ -49,4 +49,5 @@ Current PMC members:
 | @wayonb       | 6 Feb 2020     |
 | @rg911        | 6 Feb 2020     |
 | @crackTheCode | 6 Feb 2020     |
-| @Vektrat      | 20 March 2020  |
+| @Vektrat      | 20 Mar2020     |
+| @fboucquez    | 9 Jul 2020     |
